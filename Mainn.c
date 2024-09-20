@@ -1,3 +1,9 @@
+*
+ * Autor: [Jõnatas Pereira Do Nascimento]
+ * Email: [jonatas.pereira@upe.br]
+ * Data de Criação: [17/09/2024]
+ * Última Revisão: [19/09/2024]
+*
 #include <stdio.h>
 #include <math.h>
 #include <stdint.h>
